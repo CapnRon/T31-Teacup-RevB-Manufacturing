@@ -1,0 +1,38 @@
+﻿designator,quantity,value,pack,mpn,mount_type
+"C1, C10, C13, C16, C27, C4, C7",7,10uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,smt
+"C11, C14, C17, C2, C29, C5, C8",7,1uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,smt
+"C12, C15, C18, C19, C3, C33, C6, C9",8,100nF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,smt
+"C20, C21",2,12pF,C_0402_1005Metric,,smt
+C22,1,4.7uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,smt
+"C23, C24, C25, C26, C28, C30, C31, C32, C34, C35, C36, C37, C38, C39, C40, C41, C42, C43, C44, C45, C46",21,100nF,C_0402_1005Metric,,smt
+D1,1,D_TVS_Dual_AAC,SOT-23-3,,smt
+"H1, H2, H3, H4",4,MountingHole_Pad,MountingHole_2.7mm_M2.5_Pad_Via,,tht
+IC1,1,T31ZX,QFN35P900X900X90-89N-D,,smt
+J1,1,USB Type-C,USB_C_Receptacle_HRO_TYPE-C-31-M-12,,smt
+J10,1,AudioJack4_Ground,Jack_3.5mm_PJ320D_Horizontal,,smt
+"J11, J12",2,Conn_01x04_Pin,PinHeader_1x04_P2.54mm_Vertical,,tht
+J2,1,Micro_SD_Card,microSD_HC_Hirose_DM3D-SF,,smt
+J3,1,USB_A,USB_A_TE_292303-7_Horizontal,,smt
+J4,1,Conn_02x08_Odd_Even,PinHeader_2x08_P2.54mm_Vertical,,tht
+J5,1,UART,PinHeader_1x03_P2.54mm_Vertical,,tht
+"J6, J7",2,Conn_02x07_Odd_Even,PinHeader_2x07_P2.54mm_Vertical,,tht
+J8,1,DC_IN,BarrelJack_Wuerth_6941xx301002,,tht
+J9,1,Conn_01x24_Pin,687124149022,,smt
+LOGO1,1,Teacup Logo,Teacup-logo,,tht
+"R1, R2, R25, R26, R27, R3, R6, R7, R8, R9",10,0R,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,smt
+"R10, R11, R12, R13, R14, R22, R23, R24",8,100k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,smt
+"R15, R16, R17, R18, R19, R20",6,47k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,smt
+R21,1,1M,R_0402_1005Metric,,smt
+R28,1,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,smt
+"R4, R5",2,5k1,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,smt
+S1,1,CJS-1200TA,CJS-1200TA,,smt
+S2,1,TL1015AF160QG,SW_TL1015AF160QG,,smt
+SW1,1,SW_DIP_x03,SW_DIP_SPSTx03_Slide_KingTek_DSHP03TJ_W5.25mm_P1.27mm_JPin,,smt
+"TP1, TP2, TP4, TP6, TP7, TP8, TP9",7,TestPoint,TestPoint_Pad_D1.5mm,,tht
+U1,1,AZ1117-3.3,SOT-223-3_TabPin2,,smt
+U2,1,AZ1117-1.8,SOT-223-3_TabPin2,,smt
+U3,1,MCP1826S,SOT-223-3_TabPin2,,smt
+U4,1,W25Q32JVSS,SOIC-8_5.23x5.23mm_P1.27mm,,smt
+U5,1,W25Q32JVSS,DIP-8_W7.62mm_Socket_LongPads,,tht
+U6,1,MIC5365-2.8YC5,SOT-353_SC-70-5,,smt
+Y1,1,24 MHz,Crystal_SMD_2016-4Pin_2.0x1.6mm,,smt
